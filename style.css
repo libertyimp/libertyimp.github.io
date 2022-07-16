@@ -13,6 +13,10 @@ img {
 	max-width: 20% ;
 }
 
+.logo img{
+	max-width: 50% !important;
+}
+
 header h1 {
 	text-align: center ;
 	color: #d4b426;
