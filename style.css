@@ -13,10 +13,6 @@ img {
 	max-width: 20% ;
 }
 
-.logo img{
-	max-width: 50% !important;
-}
-
 header h1 {
 	text-align: center ;
 	color: #d4b426;
@@ -52,3 +48,12 @@ footer {
 #nextart,#prevart {
 	max-width: 33% ;
 }
+
+@media screen and (min-width: 760px){
+	body{
+		max-width: 400px ;
+		word-wrap: break-word;
+	}
+
+}
+
